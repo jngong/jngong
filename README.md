@@ -5,7 +5,7 @@ Diligent and detail-oriented software engineer with a strong background in conte
 
 I take a thoughtful and strategic approach to making decisions and solving complex coding problems, and strive to work in a collaborative, creative and purpose-driven environment where I can make a positive impact.
 
-Check out my recent projects :point_down: or on my [portfolio](https://jennifergong.com/).
+Check out my recent projects :point_down: or on my [portfolio](https://jennifergong.com/). Connect with me on [LinkedIn](https://www.linkedin.com/in/jngong/).
 
 <!--
 **jngong/jngong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
