@@ -1,14 +1,13 @@
-## Hi! I'm Jennifer, a Software Developer in New York 👋 
+## Hi! I'm Jennifer (she/her), a Software Engineer in New York 👋 
 
 I am a diligent and detail-oriented software engineer with a background in content and digital marketing and a passion for creating intuitive, engaging user experiences. While I had loved creating content for websites, my curiosity about the technology used to build interactive web experiences led me to learning to code and I got hooked. Now as a software developer, I’m learning new technologies everyday that enable me to build software products that can help people live their lives better. 
 
 I take a thoughtful and strategic approach to making decisions and solving complex coding problems, and strive to work in a collaborative, creative and purpose-driven environment where I can make a positive impact.
 
-🔭 I’m currently working on redesigning the website for Bay Area Older Adults, a nonprofit organization that hosts activities for local seniors in the Bay Area community, using CSS and PHP.
+💻 Currently working as a Jr. Software Engineer at Remesh and 🌱 continuously learning and growing my technical skills in React, Redux, Python, Django and SQL.
 <br>
-🌱 I’m currently learning data structures, algorithms, and approaches to problem solving to prepare for technical job interviews. 
 
-Check out my recent projects :point_down: or on my [portfolio](https://jennifergong.com/). 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/jngong/).
+Check out my personal projects below :point_down: or on my [portfolio](https://jennifergong.com/). 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/jngong/).
 
 <!--
 **jngong/jngong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
