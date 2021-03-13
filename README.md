@@ -4,14 +4,14 @@ I am a diligent and detail-oriented software engineer with a background in conte
 
 I take a thoughtful and strategic approach to making decisions and solving complex coding problems, and enjoy working in collaborative, creative and purpose-driven environments where I can make a positive impact.
 
-💻  I'm currently working as a Jr. Software Engineer at Remesh,
+💻  &nbsp;&nbsp; I'm currently working as a Jr. Software Engineer at Remesh,
 <br>
-🌱  And continuously learning and growing my technical skills in React, Redux, TypeScript, Python, Django and SQL.
+🌱  &nbsp;&nbsp; And continuously learning and growing my technical skills in React, Redux, TypeScript, Python, Django and SQL.
 <br>
 
-:point_down: Check out my personal projects below or on my [personal portfolio](https://jennifergong.com/). 
-<br>
-📫  You can connect with me on [LinkedIn](https://www.linkedin.com/in/jngong/).
+📫  &nbsp;&nbsp; Check out my personal projects below or on my [personal portfolio](https://jennifergong.com/), and feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jngong/) if you have any questions.
+
+My professional Github account is [https://github.com/jenngong](https://github.com/jenngong).
 
 <!--
 **jngong/jngong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
