@@ -1,13 +1,17 @@
 ## Hi! I'm Jennifer (she/her), a Software Engineer in New York 👋 
 
-I am a diligent and detail-oriented software engineer with a background in content and digital marketing and a passion for creating intuitive, engaging user experiences. While I had loved creating content for websites, my curiosity about the technology used to build interactive web experiences led me to learning to code and I got hooked. Now as a software developer, I’m learning new technologies everyday that enable me to build software products that can help people live their lives better. 
+I am a diligent and detail-oriented software engineer with a background in content and digital marketing and a passion for developing products with intuitive and engaging user experiences. While I loved creating *content* for websites, I had always been curious about the *technology* behind creating the interactions that make experiencing digital content exciting. This led me to learn to code and I got hooked. Now as a software developer, I continue to learn new technologies everyday that enable me to build software products that can help people live their lives better. 
 
-I take a thoughtful and strategic approach to making decisions and solving complex coding problems, and strive to work in a collaborative, creative and purpose-driven environment where I can make a positive impact.
+I take a thoughtful and strategic approach to making decisions and solving complex coding problems, and enjoy working in collaborative, creative and purpose-driven environments where I can make a positive impact.
 
-💻 Currently working as a Jr. Software Engineer at Remesh and 🌱 continuously learning and growing my technical skills in React, Redux, Python, Django and SQL.
+💻  I'm currently working as a Jr. Software Engineer at Remesh,
+<br>
+🌱  And continuously learning and growing my technical skills in React, Redux, TypeScript, Python, Django and SQL.
 <br>
 
-Check out my personal projects below :point_down: or on my [portfolio](https://jennifergong.com/). 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/jngong/).
+:point_down: Check out my personal projects below or on my [personal portfolio](https://jennifergong.com/). 
+<br>
+📫  You can connect with me on [LinkedIn](https://www.linkedin.com/in/jngong/).
 
 <!--
 **jngong/jngong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
