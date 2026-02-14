@@ -4,7 +4,7 @@ I am a diligent and detail-oriented software engineer with a background in conte
 
 I take a thoughtful and strategic approach to making decisions and solving complex coding problems, and enjoy working in collaborative, creative and purpose-driven environments where I can make a positive impact.
 
-💻  &nbsp;&nbsp; I'm currently working as a Software Engineer at Remesh,
+💻  &nbsp;&nbsp; I'm currently working as a Senior Software Engineer at Remesh,
 <br>
 🌱  &nbsp;&nbsp; And continuously learning and growing my technical skills in React, Redux, TypeScript, Python, Django and SQL.
 <br>
